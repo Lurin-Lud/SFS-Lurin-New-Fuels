@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5499134bc9bf4342a3880329018c3a62, type: 3}
+  m_Name: LF Pack Data
+  m_EditorClassIdentifier: 
+  DisplayName: New Fuels
+  Version: v1.0.0
+  Description: Varieties of fuels for you rockets
+  Author: Ludwig (Lurin)
+  ShowIcon: 1
+  Icon: {fileID: 2800000, guid: 525dcb5fe5070b646bd8af6c9c4cf9b9, type: 3}
